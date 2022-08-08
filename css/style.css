@@ -1,0 +1,33 @@
+
+.container {
+    width: 100%;
+    height: 1000px;
+    background: #000;
+}
+
+.item {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 16px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.orange {
+    background: orange;
+}
+
+.green {
+    background: green;
+    ;
+}
+
+.violet{
+    background: violet;
+}
+
+.blue {
+    background: blue;
+}
+
